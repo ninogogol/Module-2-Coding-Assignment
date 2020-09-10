@@ -1,2 +1,2 @@
 # Module-2-Coding-Assignment
-module2-solution
+for desktop, tablet, and mobile
